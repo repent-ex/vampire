@@ -18,7 +18,7 @@
                 "item_condition": {
                   "type": "origins:ingredient",
                     "ingredient": {
-                        "tag": "vampire:wooden"
+                        "tag": "vampire:iron"
                     }
               }      
         }
@@ -47,7 +47,7 @@
                 "item_condition": {
                   "type": "origins:ingredient",
                     "ingredient": {
-                        "tag": "vampire:wooden"
+                        "tag": "vampire:iron"
                     }
               }      
         }
@@ -67,6 +67,6 @@
 },
           "cooldown": 50
     },
-    "name":"§c§l§nScared of the wood",
-    "description":"Wooden weapons deal much more damage to you."
+    "name":"§c§l§nScared of the Iron",
+    "description":"Iron weapons deal much more damage to you."
 }

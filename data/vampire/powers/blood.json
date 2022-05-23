@@ -26,7 +26,7 @@
                     "item_condition": {
                         "type": "origins:ingredient",
                         "ingredient": {
-                            "tag": "vampire:daggers"
+                            "tag": "vampire:iron"
                         }
                     }
                   },
@@ -113,5 +113,5 @@
             }
         },
     "name":"§a§l§nBlood Thirsty",
-    "description":"With a bottle in your offhand and a dagger in your mainhand, you can collect blood by attacking them. Drinking blood regenerates your blood bar."
+    "description":"With a bottle in your offhand and anything iron in your mainhand, you can collect blood by attacking them. Drinking blood regenerates your blood bar."
 }
