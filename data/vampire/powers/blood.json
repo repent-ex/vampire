@@ -16,7 +16,7 @@
                     }
                 ]
             },
-            "cooldown": 40,
+            "cooldown": 10,
             "condition": {
             "type": "origins:and",
             "conditions": [
@@ -26,7 +26,7 @@
                     "item_condition": {
                         "type": "origins:ingredient",
                         "ingredient": {
-                            "tag": "vampire:iron"
+                            "tag": "vampire:swords"
                         }
                     }
                   },
@@ -50,7 +50,7 @@
         "entity_action": {
             "type": "origins:change_resource",
             "resource": "vampire:blood_bar",
-            "change": 250
+            "change": 100
         },
             "item_condition": {
                 "type": "origins:nbt",

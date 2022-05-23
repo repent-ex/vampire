@@ -4,7 +4,8 @@
         "minecraft:regeneration",
         "minecraft:nausea",
         "minecraft:hunger",
-        "minecraft:saturation"
+        "minecraft:saturation",
+        "minecraft:poison"
     ],
     "hidden": true
 }

@@ -18,7 +18,7 @@
                 "item_condition": {
                   "type": "origins:ingredient",
                     "ingredient": {
-                        "tag": "vampire:iron"
+                        "tag": "vampire:swords"
                     }
               }      
         }
@@ -47,7 +47,7 @@
                 "item_condition": {
                   "type": "origins:ingredient",
                     "ingredient": {
-                        "tag": "vampire:iron"
+                        "tag": "vampire:swords"
                     }
               }      
         }
